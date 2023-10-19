@@ -1,5 +1,5 @@
 # ANPR
-Automatic Number Plate Recognition(Optical Character Recognition (OCR) and Text Annotation with OpenCV and EasyOCR)
+# Automatic Number Plate Recognition(Optical Character Recognition (OCR) and Text Annotation with OpenCV and EasyOCR)
 
 This repository contains Python code for performing Optical Character Recognition (OCR) on images using the EasyOCR library and annotating the detected text on the original image. Additionally, it demonstrates some common image processing techniques using OpenCV.
 
